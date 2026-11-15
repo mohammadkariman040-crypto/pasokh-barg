@@ -1,0 +1,18 @@
+{
+  "id": "./",
+  "name": "پاسخ‌برگ دیجیتال کنکور",
+  "short_name": "پاسخ‌برگ",
+  "description": "پاسخ‌برگ دیجیتال و مدیریت آزمون‌های کنکور",
+  "lang": "fa",
+  "dir": "rtl",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f3f6fb",
+  "theme_color": "#24549a",
+  "icons": [
+    {"src":"./icons/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any"},
+    {"src":"./icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any"}
+  ]
+}
